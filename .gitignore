@@ -9,3 +9,5 @@
 *.mexw64
 
 .vscode
+
+/cmake-build
